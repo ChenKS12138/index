@@ -3,7 +3,7 @@
 // you can use this to manipulate the document head in any components,
 // they will be rendered correctly in the html results with vite-ssg
 useHead({
-  title: 'Index',
+  title: '个人前端开发技术分享',
   meta: [
     { name: 'description', content: 'Opinionated Vite Starter Template' },
     {
